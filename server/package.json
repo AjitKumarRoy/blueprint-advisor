@@ -1,0 +1,12 @@
+{
+  "name": "blueprint-advisor",
+  "version": "1.0.0",
+  "description": "backend of blueprint advisor",
+  "license": "ISC",
+  "author": "Ajit Kumar Roy",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
